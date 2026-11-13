@@ -1,5 +1,6 @@
 
-   //PREGUNTA 1 ===========
+   //PREGUNTA 1 =========== simulacro
+
         public void Ejercicio1(int fi, int ff, int ci, int cf,
                                          ref int ele, ref int frec)
         {
